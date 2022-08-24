@@ -68,3 +68,13 @@
 .tiktok{
     background: linear-gradient(92.63deg, rgba(65, 41, 90, 0.8) 0%, rgba(0, 0, 0, 0.8) 100%);
 }
+@media screen and (min-width:800px){
+    .buttonContainer{
+        width: 500px;
+    }
+}
+@media screen and (min-width:1300px){
+    .buttonContainer{
+        width: 800px;
+    }
+}

@@ -1,6 +1,6 @@
 import React from "react";
 
-import userBanner from "../assets/background.png"
+import userBanner from "../assets/space.jpg"
 import "../styles/Presentacion.css"
 
 interface MsgProps{
