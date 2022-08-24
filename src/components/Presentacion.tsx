@@ -1,14 +1,15 @@
 import React from "react";
-import userImg from "../assets/user.png"
+
 import userBanner from "../assets/background.png"
 import "../styles/Presentacion.css"
 
 interface MsgProps{
     userName:string,
-    description:string
+    description:string,
+    img:any
 }
 
-function Presentacion({userName,description}: MsgProps){
+function Presentacion({userName,description,img}: MsgProps){
     return (
         <div className="userContainer">
             <div className="userBanner">
@@ -18,7 +19,7 @@ function Presentacion({userName,description}: MsgProps){
                 </div>
             </div>
             <div className="userData">
-                <img src={userImg} className="userImg" alt={`Foto de ${userName}`} />
+                <img src={img} className="userImg" alt={`Foto de ${userName}`} />
                 <div className="userTextData">
                     <h1 className=''>{userName}</h1>
                     <p className="userDescription">{description}</p>
