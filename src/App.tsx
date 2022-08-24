@@ -27,42 +27,49 @@ function App() {
         title="Twitch🎥"
         subtitle="FrancoLabs"
         socialNetwork="twitch"
+        link='https://www.twitch.tv/francolabs'
       ></Boton>
       <Boton
         img={discordImg}
         title="Discord⚡"
         subtitle="¡Reuniones todos los Miercoles!"
         socialNetwork="discord"
+        link="https://discord.gg/Pvj6ZH2FPf"
       ></Boton>
       <Boton
         img={instagramImg}
-        title="Instagram 📷"
+        title="Instagram📷"
         subtitle="@francobalich"
         socialNetwork="instagram"
+        link="https://www.instagram.com/francobalich/"
       ></Boton>
       <Boton
         img={youtubeImg}
-        title="Canal Principal 🎬"
+        title="Canal Principal🎬"
         subtitle="Franco Balich"
         socialNetwork="youtube"
+        link="https://www.youtube.com/c/FrancoBalich"
       ></Boton>
       <Boton
         img={shortsImg}
-        title="Canal de Shorts 📲"
+        title="Canal de Shorts📲"
         subtitle="Franco Balich Shorts"
         socialNetwork="shorts"
+        link="https://www.youtube.com/channel/UCkfKL2dk7rq5qqonbtPO9-Q"
       ></Boton>
       <Boton
         img={twitterImg}
-        title="Twitter 🐦"
+        title="Twitter🐦"
         subtitle="@francobalich"
         socialNetwork="twitter"
+        link="https://twitter.com/francobalich"
       ></Boton>
       <Boton
         img={tiktokImg}
         title="TikTok📱"
         subtitle="@francobalich"
         socialNetwork="tiktok"
+        link="https://www.tiktok.com/@francobalich?"
       ></Boton>
     </div>
   )
