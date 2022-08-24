@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Lato, sans-serif;
+}
+.userContainer{
+    background-color: #D9D9D9;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+    /*height: 150px;*/
+}
+.spaceBanner{
+    height: 70px;
+}
+.userImg{
+    width: 105px;
+}
+.userBanner{
+    height: 100%;
+}
+.userBanner img{
+    margin-top: 5px;
+}
+.userData{
+    display: flex;
+    width: 350px;
+    position: absolute;
+    padding: 39px 27px 13px 15px;
+}
+.userTextData h1{
+    font-weight: 600;
+    font-size: 30px;
+    color: #FFFFFF;
+    margin-bottom: 27px;
+}
+.userTextData p{
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    color: #000000;
+}
