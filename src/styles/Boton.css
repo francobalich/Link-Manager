@@ -1,0 +1,56 @@
+.buttonContainer{
+    background-color: #444;
+    display: flex;
+    width: 350px;
+    height: 75px;
+    border-radius: 30px;
+    box-shadow: inset -5px -5px 10px rgba(0, 0, 0, 0.25);
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.25));
+    margin-bottom: 10px;
+}
+.buttonImg{
+    width: 60px;
+    height: 60px;
+    margin: 7px;
+}
+.textContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 8px;
+    width: 100%;
+    color: white;
+}
+.buttonTitle{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 2px;
+}
+.buttonSubtitle{
+    font-size: 15px;
+    line-height: 18px;
+}
+
+/*Estilos de redes sociales*/
+.twitch{
+    background: linear-gradient(92.63deg, rgba(142, 45, 226, 0.8) 0%, rgba(74, 0, 224, 0.8) 100%);
+}
+.discord{
+    background: linear-gradient(92.63deg, rgba(189, 195, 199, 0.8) 0%, rgba(44, 62, 80, 0.8) 100%);
+}
+.instagram{
+    background: linear-gradient(92.63deg, rgba(197, 47, 154, 0.8) 0%, rgba(91, 80, 200, 0.8) 100%);
+}
+.youtube{
+    background: linear-gradient(92.63deg, rgba(237, 33, 58, 0.8) 0%, rgba(147, 41, 30, 0.8) 100%);
+}
+.shorts{
+    background: linear-gradient(92.63deg, rgba(203, 53, 107, 0.8) 0%, rgba(189, 63, 50, 0.8) 100%);
+}
+.twitter{
+    background: linear-gradient(92.63deg, rgba(86, 204, 242, 0.8) 0%, rgba(47, 128, 237, 0.8) 100%);
+}
+.tiktok{
+    background: linear-gradient(92.63deg, rgba(65, 41, 90, 0.8) 0%, rgba(0, 0, 0, 0.8) 100%);
+}
