@@ -40,6 +40,12 @@
     line-height: 18px;
 }
 
+.no-seleccionable {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
 /*Estilos de redes sociales*/
 .twitch{
     background: linear-gradient(92.63deg, rgba(142, 45, 226, 0.8) 0%, rgba(74, 0, 224, 0.8) 100%);

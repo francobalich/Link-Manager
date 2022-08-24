@@ -9,7 +9,7 @@ interface propsButton{
 }
 function Boton({img,title,subtitle,socialNetwork,link}:propsButton){
     return(
-        <div className={`buttonContainer ${socialNetwork}`}>
+        <div className={`buttonContainer no-seleccionable ${socialNetwork}`}>
             <a href={link}>
                 <img className="buttonImg" src={img} alt={`Foto de ${socialNetwork}`}/>
                 <div className="textContainer">
