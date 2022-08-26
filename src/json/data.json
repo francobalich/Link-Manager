@@ -49,13 +49,6 @@
             "link":"https://www.tiktok.com/@francobalich?",
             "img":"TikTokLogo",
             "estilo":"tiktok"
-        },
-        "twitch/":{
-            "titulo":"Twitch🎥",
-            "subtitulo":"FrancoLabs",
-            "link":"https://www.twitch.tv/francolabs",
-            "img":"TwitchLogo",
-            "estilo":"discord"
         }
     }
 }
