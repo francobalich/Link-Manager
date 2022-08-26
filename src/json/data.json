@@ -1,0 +1,61 @@
+{
+    "franco":
+    {
+        "twitch":{
+            "titulo":"Twitch🎥",
+            "subtitulo":"FrancoLabs",
+            "link":"https://www.twitch.tv/francolabs",
+            "img":"TwitchLogo",
+            "estilo":"twitch"
+        },
+        "discord":{
+            "titulo":"Discord⚡",
+            "subtitulo":"¡Reuniones todos los Miercoles!",
+            "link":"https://discord.gg/Pvj6ZH2FPf",
+            "img":"DiscordLogo",
+            "estilo":"discord"
+        },
+        "instagram":{
+            "titulo":"Instagram📷",
+            "subtitulo":"@francobalich",
+            "link":"https://www.instagram.com/francobalich/",
+            "img":"IgLogo",
+            "estilo":"instagram"
+        },
+        "youtube":{
+            "titulo":"Canal Principal🎬",
+            "subtitulo":"Franco Balich",
+            "link":"https://www.youtube.com/c/FrancoBalich",
+            "img":"YtLogo",
+            "estilo":"youtube"
+        },
+        "shorts":{
+            "titulo":"Canal de Shorts📲",
+            "subtitulo":"Franco Balich Shorts",
+            "link":"https://www.youtube.com/channel/UCkfKL2dk7rq5qqonbtPO9-Q",
+            "img":"ShortsLogo",
+            "estilo":"shorts"
+        },
+        "twitter":{
+            "titulo":"Twitter🐦",
+            "subtitulo":"@francobalich",
+            "link":"https://twitter.com/francobalich",
+            "img":"TwitterLogo",
+            "estilo":"twitter"
+        },
+        "tiktok":{
+            "titulo":"TikTok📱",
+            "subtitulo":"@francobalich",
+            "link":"https://www.tiktok.com/@francobalich?",
+            "img":"TikTokLogo",
+            "estilo":"tiktok"
+        },
+        "twitch/":{
+            "titulo":"Twitch🎥",
+            "subtitulo":"FrancoLabs",
+            "link":"https://www.twitch.tv/francolabs",
+            "img":"TwitchLogo",
+            "estilo":"discord"
+        }
+    }
+}
