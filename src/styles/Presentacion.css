@@ -60,17 +60,9 @@
 }
 @media screen and (min-width:800px){
     .userContainer{
-        width: 500px;
+        width: 600px;
     }
     .userBanner img{
-        width: 500px;
-    }
-}
-@media screen and (min-width:1300px){
-    .userContainer{
-        width: 800px;
-    }
-    .userBanner img{
-        width: 800px;
+        width: 600px;
     }
 }

@@ -70,11 +70,6 @@
 }
 @media screen and (min-width:800px){
     .buttonContainer{
-        width: 500px;
-    }
-}
-@media screen and (min-width:1300px){
-    .buttonContainer{
-        width: 800px;
+        width: 600px;
     }
 }
